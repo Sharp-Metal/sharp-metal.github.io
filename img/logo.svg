@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   id="svg8"
+   version="1.1"
+   viewBox="0 0 227 162"
+   height="162mm"
+   width="227mm">
+  <defs
+     id="defs2" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(0,-135.00001)"
+     id="layer1">
+    <flowRoot
+       transform="matrix(0.26458333,0,0,0.26458333,11.717262,65.389881)"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       id="flowRoot853"
+       xml:space="preserve"><flowRegion
+         id="flowRegion855"><rect
+           y="334.66254"
+           x="605"
+           height="40.714287"
+           width="107.85714"
+           id="rect857" /></flowRegion><flowPara
+         id="flowPara859">METAL</flowPara></flowRoot>    <path
+       id="path3733"
+       d="M 158.7377,139.73063 82.468149,216 H 158.7377 l -76.269551,76.26939"
+       style="fill:none;stroke:#ffffff;stroke-width:4.80437517;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       id="path3735"
+       d="M 82.468149,216 6.1986013,292.26939"
+       style="fill:none;stroke:#ffffff;stroke-width:4.80437517;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       id="path3737"
+       d="M 44.333375,292.26939 95.179734,241.42313"
+       style="fill:none;stroke:#ffffff;stroke-width:4.80437517;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       id="path3739"
+       d="M 158.7377,216 95.179734,241.42313 82.468149,216"
+       style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:4.80437517;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       id="path817"
+       d="M 151.11075,137.18831 79.925832,208.37306"
+       style="fill:#00a572;fill-opacity:1;stroke:#262626;stroke-width:2.40218759;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       id="path825"
+       d="m 90.09511,294.8117 76.26954,-76.2694"
+       style="fill:none;stroke:#262626;stroke-width:2.40218759;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       id="path827"
+       d="M 100.26437,208.37306 H 158.7377"
+       style="fill:none;stroke:#262626;stroke-width:2.40218759;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <text
+       transform="scale(1.000001,0.99999895)"
+       id="text851"
+       y="169.43022"
+       x="146.75729"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.71157646px;line-height:1.25;font-family:'Good Times';-inkscape-font-specification:'Good Times';letter-spacing:0px;word-spacing:0px;fill:#262626;fill-opacity:1;stroke:none;stroke-width:0.31778941;"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.94876862px;font-family:'Good Times';-inkscape-font-specification:'Good Times';fill:#262626;fill-opacity:1;stroke-width:0.31778941;"
+         y="169.43022"
+         x="146.75729"
+         id="tspan849">SHARP</tspan></text>
+    <text
+       transform="scale(1.000001,0.99999895)"
+       id="text863"
+       y="194.90173"
+       x="121.67519"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.71157646px;line-height:1.25;font-family:'Good Times';-inkscape-font-specification:'Good Times';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.31778941"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.94876862px;font-family:'Good Times';-inkscape-font-specification:'Good Times';fill:#ffffff;fill-opacity:1;stroke-width:0.31778941"
+         y="194.90173"
+         x="121.67519"
+         id="tspan861">METAL</tspan></text>
+  </g>
+</svg>
